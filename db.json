@@ -1,0 +1,18 @@
+{
+  "student": [
+    {
+      "id": "67e6",
+      "stuname": "Roger",
+      "email": "roger123@gmail.com",
+      "mobno": "7896584123",
+      "address": "London"
+    },
+    {
+      "id": "cffb",
+      "stuname": "Kamlesh12",
+      "email": "kamlesh123@gmailcom",
+      "mobno": "3256987411",
+      "address": "hoity"
+    }
+  ]
+}
