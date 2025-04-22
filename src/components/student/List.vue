@@ -8,7 +8,6 @@ import { onMounted } from "vue";
 const { studentData, error, getAllstudent, deleteStudentData } = useStudent();
 onMounted(getAllstudent)
 
-
 const deleteStudent = async (id) => {
     if(!window.confirm("are youn sure")){
         return;
